@@ -1,0 +1,5 @@
+﻿  源.cpp
+E:\Swartrutter_\C语言自行编程实例\1024.视频拼接\源.cpp(17,27): warning C4018: “<”: 有符号/无符号不匹配
+E:\Swartrutter_\C语言自行编程实例\1024.视频拼接\源.cpp(22,35): warning C4018: “<”: 有符号/无符号不匹配
+E:\Swartrutter_\C语言自行编程实例\1024.视频拼接\源.cpp(40,31): warning C4018: “<”: 有符号/无符号不匹配
+  1024.视频拼接.vcxproj -> E:\Swartrutter_\C语言自行编程实例\1024.视频拼接\Debug\1024.视频拼接.exe

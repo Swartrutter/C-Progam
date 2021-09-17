@@ -1,0 +1,3 @@
+﻿  源.cpp
+E:\Swartrutter_\C语言自行编程实例\93.复原IP地址\源.cpp(29,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  93.复原IP地址.vcxproj -> E:\Swartrutter_\C语言自行编程实例\93.复原IP地址\Debug\93.复原IP地址.exe
